@@ -36,3 +36,11 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
